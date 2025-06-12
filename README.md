@@ -1,4 +1,4 @@
  # pravindemo
 this is my first repository
 <br>
-author- Pravin Ravindra Mane
+author- MANE PRAVIN RAVINDRA
